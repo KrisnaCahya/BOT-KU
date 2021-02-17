@@ -1,0 +1,52 @@
+{
+    "token": "ODEwMDE4NjA0Mjc1MjA0MTU3.YCdinA.eK1h9Bmu56kjwAHOvNL6pxJyxrE",
+    "prefix": "=",
+    "bot_name": "K-Bot",
+    "main_color": "0x2c95e6",
+    "bot_owners": ["Krisna_Cahya#8342" ],
+
+    "anti_bad_word_toggle": true,
+    "anti_bad_words": [  "fuck",  "nigger",  "nigga",  "pussy", "f ucker", "cunt", "penis","dick","dickhead","fucking","jancok","anjing","ngentot","CAN ADD MORE BY REPEATING PROCESS"],
+
+    "counter": false,
+    "counter_channel": "802635210919116881",
+    "counter_number_reach": 5,
+    
+    "blacklisted": ["-"],
+    "whitelisted": ["-"],
+    
+    "ignore_channel_toggle": true,
+    "ignore_channel_id": ["798174351865806918","CHANNEL 2 ID"],
+    
+    "anti_link_toggle": true,
+    "mute_role": "797753839548760085",
+
+    "command_cooldown_toggle": true,
+    "command_cooldown_time": "3",
+    
+    "xp_system_toggle": true,
+    "xp_system_rate": 10,
+    "xp_system_levelrate": 300,
+    
+    "suggest_system_toggle": true,
+    "suggest_system_channel": "",
+    
+    "report_system_toggle": true,
+    "report_system_channel": "REPORT CHANNEL ID",
+    
+    "mod_logs_toggle": false,
+    "mod_logs_channel": "MOD LOGS CHANNEL ID",
+    "mod_logs_color": "0xbd1751",
+    
+    "anti_selfbot_toggle": true,
+    "anti_self_bot_message": "No self bots allowed!",
+    
+    "status_type": "WATCHING",
+    "status_url": "https://www.youtube.com/channel/UCmMn8v-41ZpQvMu_aBJfAJA",
+    "bot_status": ["=help","This Server","Youtube Channel"],
+    "status_change_interval": "3",
+    
+    "welcome_message_enabled": true,
+    "welcome_message_server": "SERVER ID HERE",
+    "welcome_message_channel": "CHANNEL ID HERE"
+}
